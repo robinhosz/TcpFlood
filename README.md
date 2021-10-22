@@ -1,2 +1,3 @@
 # TcpFlood
-# FOR KIDS
+
+Script simples de TcpFlood.
